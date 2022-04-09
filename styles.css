@@ -1,0 +1,16 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: separate;
+    width: 80%;
+}
+td, 
+th{
+    border: 1px solid black;
+    text-align:left;
+}   
+tr,td {
+    background-color: bisque;
+}
+
+
+
